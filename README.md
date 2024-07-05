@@ -1,4 +1,4 @@
-# Encryptix_Taskno.4
+# SMS Spam Classifier
 
 This repository contains the completed tasks for my internship in Machine Learning at Encryptix. The tasks involved implementing various machine learning models and solving real-world problems. Below are the details of the tasks completed:
 
